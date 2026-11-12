@@ -1,0 +1,7 @@
+data/
+models/
+sentrysearch/
+*.npy
+.env
+.venv/
+results/
