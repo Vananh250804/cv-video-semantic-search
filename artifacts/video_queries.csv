@@ -1,0 +1,9 @@
+query,expected_file,start,end
+a rainy road with cars driving through the rain,rain_cars.mp4,0:00,0:07
+fast driving on a highway at night,night_highway.mp4,0:00,0:12
+a view from inside a car on a city street at night,night_city.mp4,0:00,0:17
+a lonely car driving on a snowy road,snow_car.mp4,0:00,0:13
+driving through a tunnel,tunnel.mp4,0:00,0:05
+driving on a curved road in light fog,fog_curve.mp4,0:00,1:03
+cars on a city avenue at sunset,sunset_avenue.mp4,0:00,0:09
+a bendy road through a forest,forest_road.mp4,0:00,0:26

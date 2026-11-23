@@ -1,0 +1,19 @@
+field,label,count
+weather,clear,5346
+weather,overcast,1239
+weather,undefined,1157
+weather,snowy,769
+weather,rainy,738
+weather,partly cloudy,738
+weather,foggy,13
+timeofday,daytime,5258
+timeofday,night,3929
+timeofday,dawn/dusk,778
+timeofday,undefined,35
+scene,city street,6112
+scene,highway,2499
+scene,residential,1253
+scene,undefined,53
+scene,parking lot,49
+scene,tunnel,27
+scene,gas stations,7

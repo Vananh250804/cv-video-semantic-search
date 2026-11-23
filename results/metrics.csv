@@ -1,0 +1,13 @@
+task,method,split,accuracy,macro_f1,note
+weather,zero-shot,val,0.6111,0.5969,
+weather,zero-shot,test,0.6028,0.5842,
+weather,linear probe,val,0.8722,0.8723,C=1
+weather,linear probe,test,0.8444,0.8446,C=1
+scene,zero-shot,val,0.7259,0.73,
+scene,zero-shot,test,0.6519,0.6529,
+scene,linear probe,val,0.763,0.7622,C=1
+scene,linear probe,test,0.7593,0.7571,C=1
+timeofday,zero-shot,val,0.7444,0.7244,
+timeofday,zero-shot,test,0.7741,0.7607,
+timeofday,linear probe,val,0.8593,0.8565,C=1
+timeofday,linear probe,test,0.8407,0.8359,C=1

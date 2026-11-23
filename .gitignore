@@ -4,4 +4,8 @@ sentrysearch/
 *.npy
 .env
 .venv/
-results/
+demo_videos/
+__pycache__/
+test_video/
+.DS_Store
+*.mp4

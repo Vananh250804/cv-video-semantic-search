@@ -1,0 +1,4 @@
+task,config,C,val_f1,test_accuracy,test_macro_f1
+weather,LR thô,1.0,0.8723,0.8444,0.8446
+scene,chuẩn hóa+LR,0.001,0.7622,0.7704,0.7693
+timeofday,chuẩn hóa+LR,0.001,0.8651,0.8519,0.8476

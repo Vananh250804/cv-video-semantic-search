@@ -1,0 +1,9 @@
+query,expected,top1,score,top1_ok,top3_ok,correct_rank
+a rainy road with cars driving through the rain,rain_cars.mp4 0:00-0:07,rain_cars.mp4 00:00,0.74,1,1,1
+fast driving on a highway at night,night_highway.mp4 0:00-0:12,night_highway.mp4 00:00,0.81,1,1,1
+a view from inside a car on a city street at night,night_city.mp4 0:00-0:17,night_city.mp4 00:00,0.71,1,1,1
+a lonely car driving on a snowy road,snow_car.mp4 0:00-0:13,snow_car.mp4 00:00,0.72,1,1,1
+driving through a tunnel,tunnel.mp4 0:00-0:05,tunnel.mp4 00:00,0.77,1,1,1
+driving on a curved road in light fog,fog_curve.mp4 0:00-1:03,fog_curve.mp4 00:25,0.79,1,1,1
+cars on a city avenue at sunset,sunset_avenue.mp4 0:00-0:09,sunset_avenue.mp4 00:00,0.6,1,1,1
+a bendy road through a forest,forest_road.mp4 0:00-0:26,forest_road.mp4 00:00,0.64,1,1,1

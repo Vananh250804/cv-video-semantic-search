@@ -1,0 +1,4 @@
+task,model,val_f1,test_accuracy,test_macro_f1
+weather,LR thô C=1,0.8723,0.8444,0.8446
+scene,LR chuẩn hóa C=0.0003,0.7624,0.763,0.7605
+timeofday,LR chuẩn hóa C=0.001,0.8651,0.8519,0.8476

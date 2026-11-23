@@ -1,0 +1,10 @@
+query,expected,top1,score,top1_ok,top3_ok,correct_rank
+vehicles splashing along a wet road during a downpour,rain_cars.mp4 0:00-0:07,rain_cars.mp4 00:00,0.7,1,1,1
+dark expressway with other cars speeding past,night_highway.mp4 0:00-0:12,night_highway.mp4 00:00,0.77,1,1,1
+glowing signs and traffic lights seen from a moving car after dark,night_city.mp4 0:00-0:17,night_highway.mp4 00:00,0.62,0,1,2
+white winter landscape with a single vehicle on an icy road,snow_car.mp4 0:00-0:13,snow_car.mp4 00:00,0.72,1,1,1
+a covered road with lights passing overhead,tunnel.mp4 0:00-0:05,tunnel.mp4 00:00,0.63,1,1,1
+low visibility mist over winding asphalt,fog_curve.mp4 0:00-1:03,fog_curve.mp4 00:00,0.76,1,1,1
+orange sky above buildings and moving traffic,sunset_avenue.mp4 0:00-0:09,sunset_avenue.mp4 00:00,0.62,1,1,1
+trees on both sides of a twisty paved path,forest_road.mp4 0:00-0:26,forest_road.mp4 00:00,0.61,1,1,1
+morning traffic between tall buildings,city_morning.mp4 0:00-0:15,sunset_avenue.mp4 00:00,0.61,0,1,2

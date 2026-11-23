@@ -1,0 +1,11 @@
+task,query_class,n_images,P@10,P@50,AP,chance
+weather,clear,2400,0.5,0.52,0.3247,0.25
+weather,overcast,2400,0.6,0.62,0.437,0.25
+weather,rainy,2400,1.0,0.92,0.7188,0.25
+weather,snowy,2400,1.0,0.94,0.6857,0.25
+scene,city street,1800,0.7,0.52,0.4153,0.3333
+scene,highway,1800,1.0,1.0,0.7912,0.3333
+scene,residential,1800,1.0,0.92,0.8077,0.3333
+timeofday,dawn/dusk,1800,1.0,1.0,0.667,0.3333
+timeofday,daytime,1800,0.2,0.38,0.4424,0.3333
+timeofday,night,1800,1.0,1.0,0.903,0.3333
