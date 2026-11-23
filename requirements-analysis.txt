@@ -1,0 +1,10 @@
+# Môi trường A: các script phân tích (01-04, 07-10, 12). Không cần PyTorch.
+# scikit-learn ghim đúng phiên bản vì các tệp artifacts/probe_*.joblib là pickle của scikit-learn.
+datasets
+numpy
+pandas
+pillow
+tqdm
+matplotlib
+joblib
+scikit-learn==1.9.1

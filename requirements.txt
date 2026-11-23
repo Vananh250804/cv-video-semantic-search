@@ -103,7 +103,7 @@ safetensors==0.8.0
 scikit-learn==1.9.1
 scipy==1.18.1
 semantic-version==2.10.0
-sentrysearch @ file:///Users/mac/cv-final/sentrysearch
+# sentrysearch: cài từ thư mục sentrysearch/ (git clone, commit e99605e), xem README
 setuptools==84.2.1
 shellingham==1.5.4
 sniffio==1.3.1
